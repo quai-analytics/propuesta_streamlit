@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# secrets
+.secrets.toml
+secrets.json
+secret_n8n_webhook.json
+
 # Distribution / packaging
 .Python
 build/
